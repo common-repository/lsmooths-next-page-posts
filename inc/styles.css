@@ -1,0 +1,48 @@
+/*  Copyright 2012  Lutz Schildt  (email : ls@lsmooth.de)
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+*/
+
+.lsmooth_pp_div
+{
+  width:75%;
+  float:left;
+}
+
+.lsmooth_pp_div ul
+{
+  list-style:none outside none;
+}
+.lsmooth_pp_div ul li
+{
+  border-bottom:1px solid #E0E0E0;
+}
+
+.lsmooth_pp_div ul li a
+{
+  padding:10px 10px;
+  font-size:12px;
+  display:block;
+}
+
+.lsmooth_pp_head
+{
+  background-color: #E0E0E0;
+  border-bottom: 1px solid #C0C0C0;
+  display:block;
+  font-size:16px;
+  margin-left:42px;
+  padding: 5px 0;
+  padding-left:5px;
+}
